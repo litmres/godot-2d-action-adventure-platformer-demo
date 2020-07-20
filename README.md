@@ -1,5 +1,8 @@
 # Godot 2D action adventure platformer demo
 
+*Warning Game only compatible with Godot 3.1 and below. It does not works on Godot 3.2+. I recommand to check my starter pack for a much up to date demo https://github.com/Levrault/Levrault-s-2D-platformer-starter*
+
+
 Godot 2D action adventure platformer demo will be a "complete" tiny demo that should contains a lot of useful stuffs for people that want to learn [Godot Engine](https://godotengine.org/) and creating their own platformer. 
 
 I hope it should answer the common question : _Damn, how can I code that ?_ by only reading through code instead.
